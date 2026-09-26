@@ -73,6 +73,13 @@ bash uninstall.sh
 
 ---
 
+### Additional Technical Documentation
+For in-depth crash dump analysis, step-by-step x86 disassembly, and call stack reconstruction:
+* [English Technical Analysis](docs/TECHNICAL_ANALYSIS_EN.md)
+* [Análisis Técnico en Español](docs/TECHNICAL_ANALYSIS_ES.md)
+
+---
+
 <a name="español"></a>
 ## Español
 
@@ -146,4 +153,6 @@ bash uninstall.sh
 ---
 
 ### Documentación Técnica Adicional
-Para ver el análisis detallado del minidump, el desensamblado x86 paso a paso y la reconstrucción de la pila de llamadas, consulta [docs/TECHNICAL_ANALYSIS.md](docs/TECHNICAL_ANALYSIS.md).
+Para ver el análisis detallado del minidump, el desensamblado x86 paso a paso y la reconstrucción de la pila de llamadas:
+* [Análisis Técnico en Español](docs/TECHNICAL_ANALYSIS_ES.md)
+* [English Technical Analysis](docs/TECHNICAL_ANALYSIS_EN.md)

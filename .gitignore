@@ -1,0 +1,19 @@
+# Object files
+*.o
+*.obj
+
+# Backup files
+*.bak
+*~
+*.swp
+*.tmp
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and crash dumps
+*.log
+*.dmp
